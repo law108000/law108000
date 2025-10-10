@@ -15,10 +15,10 @@ I'm a **Lead AI Engineer** with over 10 years of experience in building scalable
 - **MLOps**: Model Deployment, Monitoring, Pipeline Automation
 - **FinTech AI**: Risk Assessment, Fraud Detection, Algorithmic Trading
 
-### 🏆 Certifications & Achievements
+<!-- ### 🏆 Certifications & Achievements
 - AWS Certified Machine Learning - Specialty *(if applicable)*
 - Google Cloud Professional ML Engineer *(if applicable)*
-- Microsoft Azure AI Engineer Associate *(if applicable)*
+- Microsoft Azure AI Engineer Associate *(if applicable)* -->
 
 ### � Current AI Focus
 Building intelligent systems that bridge traditional software engineering with cutting-edge AI capabilities, with particular emphasis on FinTech applications and scalable ML solutions.
