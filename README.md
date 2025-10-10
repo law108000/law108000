@@ -20,7 +20,7 @@ I'm a **Lead AI Engineer** with over 10 years of experience in building scalable
 - Google Cloud Professional ML Engineer *(if applicable)*
 - Microsoft Azure AI Engineer Associate *(if applicable)* -->
 
-### � Current AI Focus
+### 🎯 Current AI Focus
 Building intelligent systems that bridge traditional software engineering with cutting-edge AI capabilities, with particular emphasis on FinTech applications and scalable ML solutions.
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
