@@ -9,7 +9,19 @@
 ### 🚀 About Me
 I'm a **Lead AI Engineer** with over 10 years of experience in building scalable, efficient, and reliable software solutions. Passionate about cloud technologies, data processing, and innovative software development.
 
-### 💻 Tech Stack
+### 🎯 AI & ML Specializations
+- **Machine Learning**: Deep Learning, Neural Networks, Computer Vision
+- **Natural Language Processing**: Text Analysis, Language Models, Chatbots
+- **MLOps**: Model Deployment, Monitoring, Pipeline Automation
+- **FinTech AI**: Risk Assessment, Fraud Detection, Algorithmic Trading
+
+### 🏆 Certifications & Achievements
+- AWS Certified Machine Learning - Specialty *(if applicable)*
+- Google Cloud Professional ML Engineer *(if applicable)*
+- Microsoft Azure AI Engineer Associate *(if applicable)*
+
+### � Current AI Focus
+Building intelligent systems that bridge traditional software engineering with cutting-edge AI capabilities, with particular emphasis on FinTech applications and scalable ML solutions.
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -21,11 +33,18 @@ I'm a **Lead AI Engineer** with over 10 years of experience in building scalable
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
 </div>
 
@@ -55,6 +74,11 @@ I'm a **Lead AI Engineer** with over 10 years of experience in building scalable
 - **[Passport SAML](https://github.com/node-saml/passport-saml)**: SAML 2.0 authentication with Passport
 - **[WhatsApp ChatGPT](https://github.com/askrella/whatsapp-chatgpt)**: ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖
 - **[Vue Tables 2](https://github.com/matfish2/vue-tables-2)**: Vue.js 2 grid components (archived)
+
+### 🤝 Professional Communities
+- **AI & ML Enthusiast**: Active in AI research communities and FinTech innovation
+- **Open Source Contributor**: Regular contributor to AI and backend development projects
+- **Mentor**: Guiding junior developers in AI implementation and best practices
 
 ### 📫 Let's Connect!
 <div align="center">
